@@ -1,5 +1,5 @@
 # arduino-lora-peer-peer
-**The code is written in C-Language and IDE used is Arduino IDE**
+**The code is written in C++-Language and IDE used is Arduino IDE**
 
 *Steps to be followed:*
 1. Install the LoRa library(The LoRa.zip file is uploaded, just include it in your Arduino IDE)
