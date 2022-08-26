@@ -2,7 +2,7 @@
 **The code is written in Arduino IDE**
 
 *Steps to be followed:*
-1. Install the LoRa library
+1. Install the LoRa library(The LoRa.zip file is uploaded, just include it in your Arduino IDE)
 2. Set the frequency as permitted in your area.
 3. Upload the sender code in the Arduino
 4. Upload the receiver code in the Arduino
